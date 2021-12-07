@@ -1,0 +1,31 @@
+{
+    "description": "<p>Notebook sobre la implementaci\u00f3n de MCMC para estimaci\u00f3n de par\u00e1metros cosmol\u00f3gcios, usando datos de PANTHEON, RGB CC.\nMaterial complementario al libro \"Cosmolog\u00eda de Precisi\u00f3n. Trazando la forma y evoluci\u00f3n del universo\", por C. Escamilla-Rivera y C. Del Vecchyo.</p>", 
+    "license": "other-open", 
+    "title": "Cosmolog\u00ea de Precisi\u00f3n. Trazando la forma y evoluci\u00f3n del Universo", 
+    "version": "v1.0.1", 
+    "upload_type": "software", 
+    "publication_date": "2021-12-06", 
+    "creators": [
+        {
+            "affiliation": "Instituto de Ciencias Nucleares ICN-UNAM", 
+            "name": "Carlo Del Vecchyo"
+        }, 
+        {
+            "affiliation": "Instituto de Ciencias Nucleares ICN-UNAM", 
+            "name": "Celia Escamilla-Rivera"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/carlovb/Cosmologia_DelVecchyo_Escamilla/tree/v1.0.1", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5762559", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
